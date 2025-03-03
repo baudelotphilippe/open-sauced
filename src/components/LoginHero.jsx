@@ -13,6 +13,11 @@ function Hero({handleLogIn}) {
             <h1>Open Sauced Dashboard</h1>
             <p>Login with GitHub to start tracking open source projects.</p>
             <br />
+            <div>
+<h1>The path to your next</h1>
+<h2>Open Source</h2>
+<h1>contribution.</h1>
+</div>
             <FlexCenter>
             <MarketingButton alt="pizza" primary onClick={handleLogIn}>
               Login with GitHub
